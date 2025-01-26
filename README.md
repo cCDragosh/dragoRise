@@ -1,2 +1,0 @@
-# dragoRise
-AI asistent alarm
