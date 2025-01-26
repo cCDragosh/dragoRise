@@ -62,3 +62,7 @@ li .delete-btn {
     cursor: pointer;
     padding: 5px 10px;
 }
+.completed {
+    text-decoration: line-through;
+    color: grey;
+}
